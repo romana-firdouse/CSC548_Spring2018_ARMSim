@@ -6,5 +6,7 @@ package com.example.awesomefat.csc548_spring2018_armsim;
 
 public class CORE
 {
-    static String X0 = "0";
+    static int maxRegisters = 8;
+    static String registers[] = {"0", "0", "0", "0", "0", "0", "0", "0"};
+
 }
